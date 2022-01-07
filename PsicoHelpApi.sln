@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PsicoHelpApi", "PsicoHelpApi.csproj", "{3264099A-A50A-4F39-8549-9830C9D48A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3264099A-A50A-4F39-8549-9830C9D48A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3264099A-A50A-4F39-8549-9830C9D48A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3264099A-A50A-4F39-8549-9830C9D48A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3264099A-A50A-4F39-8549-9830C9D48A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E148300-8664-46BF-94EF-7DB2B630D1D6}
+	EndGlobalSection
+EndGlobal
