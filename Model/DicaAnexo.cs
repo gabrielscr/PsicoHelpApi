@@ -1,12 +1,10 @@
 ﻿namespace PsicoHelpApi.Model
 {
-    public class Anotacao
+    public class DicaAnexo
     {
         public int Id { get; set; }
 
-        public DateTime DataCriacao { get; set; }
-
-        public string? Descricao { get; set; }
+        public string? Link { get; set; }
 
         public string? UsuarioId { get; set; }
 

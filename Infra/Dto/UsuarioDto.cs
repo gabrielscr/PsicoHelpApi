@@ -1,9 +1,9 @@
-﻿using Microsoft.AspNetCore.Identity;
-
-namespace PsicoHelpApi.Model
+﻿namespace PsicoHelpApi.Infra.Dto
 {
-    public class Usuario : IdentityUser
+    public class UsuarioDto
     {
+        public string? Id { get; set; }
+
         public string? Nome { get; set; }
 
         public int? Sexo { get; set; }
